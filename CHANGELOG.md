@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`0d255bc`](https://github.com/stdlib-js/stdlib/commit/0d255bc39e0a122554fbc972be6c0973abb2c48a) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/logistic` [(#5139)](https://github.com/stdlib-js/stdlib/pull/5139) _(by GK Bishnoi, Gopi Kishan)_
 -   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
@@ -50,11 +51,12 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   GK Bishnoi
 -   Gopi Kishan
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
